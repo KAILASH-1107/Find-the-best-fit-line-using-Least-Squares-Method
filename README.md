@@ -45,8 +45,6 @@ print('Y_predicted :',y_predicted)
 plt.scatter(x,y)
 plt.plot(x,y_predicted,color='red')
 plt.show()
-print("Name : EASWAR R")
-print("Reg.No : 212223230053")
 ```
 
 ## Output:
